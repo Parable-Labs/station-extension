@@ -1,5 +1,7 @@
 # Terra Station Wallet extension
 
+_This is forked version of Terra Station wallet extension that allows users to connect their Ledger Wallet using the Cosmos Ledger app instead of the Terra Ledger app. Please review the code changes to verify the changes for yourself._
+
 ![Banner](Banner.png)
 
 **Terra Station Wallet extension** is a browser extension to interact with [Terra Core](https://github.com/terra-money/core).
